@@ -1,0 +1,27 @@
+#pic {
+	float: center;
+	margin-top: 120px;
+}
+h1{
+	text-align: center;
+}
+form {
+	text-align: centre;
+}
+body{
+	background-image: url("img/115.png"); 
+	background-repeat: no-repeat;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: "Verdana", cursive;
+}	
+p {
+	color: "black";
+	font-size: 28px;
+	font-family: 'Montserrat', cursive;;
+}
+a {
+	float: right;
+	margin-top: 105px;
+	margin-right: 20px;
+}
