@@ -8,7 +8,7 @@ h1{
 form {
 	text-align: centre;
 }
-body{
+#bod{
 	background-image: url("img/115.png"); 
 	background-repeat: no-repeat;
 	margin-left: 20px;
@@ -17,11 +17,44 @@ body{
 }	
 p {
 	color: "black";
-	font-size: 28px;
-	font-family: 'Montserrat', cursive;;
+	font-size: 22px;
+	font-family: 'Montserrat', cursive;
+	margin-left: 15px;
+	margin-right: 50px;
 }
-a {
+#link {
 	float: right;
-	margin-top: 105px;
+	font-size: 28px;
+	margin-top: 0px;
 	margin-right: 20px;
 }
+a:hover{
+	font-size: 30px;
+	color: greenyellow;
+}
+a {
+	text-decoration: underline;
+}
+#new{
+	background-color: aliceblue;
+}
+nav {
+	margin-top: 5px;
+	background-color: #38559F;
+}
+h4 {
+	text-align: center;
+}
+#logo {
+	margin-top: 10px;
+	margin-left: 5px;
+}
+#img {
+	float: right;
+}
+footer {
+	margin-top: 175px;
+}
+.row{
+	margin: 0px 0px 0px -2%;
+  }
